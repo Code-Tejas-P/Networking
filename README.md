@@ -8,7 +8,7 @@ A practical implementation of a secure, scalable, and efficient campus network. 
 
 This project focuses on the **design and implementation of a secure network infrastructure** for a fictional campus setup with four core departments, using hierarchical design principles and robust security configurations.
 
-✅ Includes Cisco Packet Tracer file: `Assignment2.pkt`  
+✅ Includes Cisco Packet Tracer file: `Assignment 2.pkt`  
 ✅ Includes full CLI configuration: [`COMMANDS.docx`](./COMMANDS.docx)
 
 ---
